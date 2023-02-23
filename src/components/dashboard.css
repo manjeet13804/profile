@@ -1,0 +1,32 @@
+.headercontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px 20px;
+    background: yellow;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    color: #d85d0b;
+}
+
+.dropdown-content {
+    display: block;
+    box-sizing: border-box;
+    padding-top: 7px;
+    height: 10px;
+    text-align: end;
+    position: sticky;
+    width: 100px;
+    background-color: transparent;
+    z-index: 1;
+}
+
+.menu{
+margin-right: 10px;
+color: darkblue;
+}
+

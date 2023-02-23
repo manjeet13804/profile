@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "firstName": "Manjeet",
+      "lastName": "Panghal",
+      "email": "manjeet123@gmail.com",
+      "passward": "123123",
+      "id": 1
+    },
+    {
+      "firstName": "Manjeet",
+      "lastName": "Panghal",
+      "email": "manjeet1234@gmail.com",
+      "passward": "123123",
+      "id": 2
+    },
+    {
+      "firstName": "Manjeet",
+      "lastName": "Panghal",
+      "email": "manjeet13804@gmail.com",
+      "passward": "123123",
+      "id": 3
+    },
+    {
+      "firstName": "Manjeet",
+      "lastName": "Panghal",
+      "email": "manjeet.panghal@provistechnologies.com",
+      "passward": "123123",
+      "id": 4
+    },
+    {
+      "firstName": "Manjeet",
+      "lastName": "Panghal",
+      "email": "manjeet138045@gmail.com",
+      "passward": "123123",
+      "id": 5
+    }
+  ]
+}
